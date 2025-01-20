@@ -1,0 +1,16 @@
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\EnclaveDrive.exe
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\EnclaveDrive.deps.json
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\EnclaveDrive.runtimeconfig.json
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\EnclaveDrive.dll
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\EnclaveDrive.pdb
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.csproj.GenerateResource.cache
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.dll
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\refint\EnclaveDrive.dll
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.pdb
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.genruntimeconfig.cache
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\ref\EnclaveDrive.dll
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.Form1.resources
