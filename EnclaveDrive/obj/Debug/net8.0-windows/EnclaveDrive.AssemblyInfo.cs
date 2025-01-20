@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnclaveDrive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ef194751fdcaec1864a3bfa1d3c1f62221a2f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnclaveDrive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnclaveDrive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

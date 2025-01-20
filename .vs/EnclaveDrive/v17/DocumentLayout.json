@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\utils\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\utils\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\languages\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\languages\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\images\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\images\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\audio\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\audio\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\data\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\data\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,6 +43,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\.gitkeep",
+              "RelativeDocumentMoniker": "EnclaveDrive\\utils\\.gitkeep",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\.gitkeep",
+              "RelativeToolTip": "EnclaveDrive\\utils\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:27:19.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\languages\\.gitkeep",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\languages\\.gitkeep",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\languages\\.gitkeep",
+              "RelativeToolTip": "EnclaveDrive\\Resources\\languages\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:27:09.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\images\\.gitkeep",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\images\\.gitkeep",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\images\\.gitkeep",
+              "RelativeToolTip": "EnclaveDrive\\Resources\\images\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:27:00.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\audio\\.gitkeep",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\audio\\.gitkeep",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\audio\\.gitkeep",
+              "RelativeToolTip": "EnclaveDrive\\Resources\\audio\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:26:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\.gitkeep",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Data\\.gitkeep",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\.gitkeep",
+              "RelativeToolTip": "EnclaveDrive\\Data\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T22:26:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "EnclaveDrive\\Forms\\Form1.cs",
@@ -35,15 +120,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "EnclaveDrive\\Forms\\Form1.cs",
               "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Forms\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "EnclaveDrive\\Forms\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T19:10:04.75Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-11T19:10:04.75Z"
             }
           ]
         }
