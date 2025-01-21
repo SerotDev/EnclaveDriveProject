@@ -14,3 +14,7 @@ C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\E
 C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.genruntimeconfig.cache
 C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\ref\EnclaveDrive.dll
 C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.Form1.resources
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.csproj.AssemblyReference.cache
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveDrive.sourcelink.json
+C:\Users\Sergi\source\repos\EnclaveDrive\EnclaveDrive\obj\Debug\net8.0-windows\EnclaveD.B3216581.Up2Date

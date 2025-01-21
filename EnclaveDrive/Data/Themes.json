@@ -1,0 +1,118 @@
+{
+  "Light": {
+    "Default": {
+      "PrimaryColor": "#0078D7",
+      "SecondaryColor": "#2D89EF",
+      "BackgroundColor": "#F3F4F6",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#1B1B1B",
+      "BorderColor": "#DDDDDD"
+    },
+    "Blue": {
+      "PrimaryColor": "#1A73E8",
+      "SecondaryColor": "#4285F4",
+      "BackgroundColor": "#E3F2FD",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#0D47A1",
+      "BorderColor": "#BBDEFB"
+    },
+    "Green": {
+      "PrimaryColor": "#388E3C",
+      "SecondaryColor": "#4CAF50",
+      "BackgroundColor": "#E8F5E9",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#1B5E20",
+      "BorderColor": "#C8E6C9"
+    },
+    "Pink": {
+      "PrimaryColor": "#D81B60",
+      "SecondaryColor": "#F06292",
+      "BackgroundColor": "#FCE4EC",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#880E4F",
+      "BorderColor": "#F8BBD0"
+    },
+    "Yellow": {
+      "PrimaryColor": "#FBC02D",
+      "SecondaryColor": "#FFEB3B",
+      "BackgroundColor": "#FFF9C4",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#F57F17",
+      "BorderColor": "#FFF59D"
+    },
+    "Teal": {
+      "PrimaryColor": "#009688",
+      "SecondaryColor": "#4DB6AC",
+      "BackgroundColor": "#E0F2F1",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#004D40",
+      "BorderColor": "#B2DFDB"
+    },
+    "Gray": {
+      "PrimaryColor": "#9E9E9E",
+      "SecondaryColor": "#BDBDBD",
+      "BackgroundColor": "#FAFAFA",
+      "PanelColor": "#FFFFFF",
+      "TextColor": "#616161",
+      "BorderColor": "#E0E0E0"
+    }
+  },
+  "Dark": {
+    "Default": {
+      "PrimaryColor": "#1E90FF",
+      "SecondaryColor": "#3AA0F3",
+      "BackgroundColor": "#202225",
+      "PanelColor": "#2E2F33",
+      "TextColor": "#EAEAEA",
+      "BorderColor": "#444444"
+    },
+    "Purple": {
+      "PrimaryColor": "#9C27B0",
+      "SecondaryColor": "#CE93D8",
+      "BackgroundColor": "#311B92",
+      "PanelColor": "#512DA8",
+      "TextColor": "#EDE7F6",
+      "BorderColor": "#7E57C2"
+    },
+    "Orange": {
+      "PrimaryColor": "#FF9800",
+      "SecondaryColor": "#FFC107",
+      "BackgroundColor": "#EF6C00",
+      "PanelColor": "#FFAB40",
+      "TextColor": "#FFF3E0",
+      "BorderColor": "#FFCC80"
+    },
+    "Red": {
+      "PrimaryColor": "#D32F2F",
+      "SecondaryColor": "#FF5252",
+      "BackgroundColor": "#B71C1C",
+      "PanelColor": "#C62828",
+      "TextColor": "#FFCDD2",
+      "BorderColor": "#EF9A9A"
+    },
+    "Cyan": {
+      "PrimaryColor": "#00BCD4",
+      "SecondaryColor": "#26C6DA",
+      "BackgroundColor": "#006064",
+      "PanelColor": "#00838F",
+      "TextColor": "#B2EBF2",
+      "BorderColor": "#4DD0E1"
+    },
+    "Brown": {
+      "PrimaryColor": "#795548",
+      "SecondaryColor": "#A1887F",
+      "BackgroundColor": "#3E2723",
+      "PanelColor": "#4E342E",
+      "TextColor": "#D7CCC8",
+      "BorderColor": "#BCAAA4"
+    },
+    "DarkGray": {
+      "PrimaryColor": "#616161",
+      "SecondaryColor": "#9E9E9E",
+      "BackgroundColor": "#212121",
+      "PanelColor": "#424242",
+      "TextColor": "#E0E0E0",
+      "BorderColor": "#757575"
+    }
+  }
+}

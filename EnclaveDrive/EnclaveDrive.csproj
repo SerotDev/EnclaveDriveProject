@@ -14,7 +14,10 @@
     <Folder Include="Resources\Images\" />
     <Folder Include="Resources\Audio\" />
     <Folder Include="Resources\Languages\" />
-    <Folder Include="Utils\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
 </Project>
