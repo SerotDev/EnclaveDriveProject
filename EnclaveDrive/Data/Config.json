@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "security": {
+    "passwordHash": "", // Hash de la contraseña
+    "failedAttempts": 3
+  },
+  "userPreferences": {
+    "language": "es",
+    "secured": true,
+    "theme": "Light",
+    "colorTheme": "Default",
+    "fontSize": 100,
+    "enclaveDriveUpdates": true,
+    "programsUpdates": true,
+  }
+}

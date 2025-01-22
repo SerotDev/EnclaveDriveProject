@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 
 namespace EnclaveDrive.Utils
 {
-    internal class ThemeManager
+    internal class ThemeService
     {
         public class Theme
         {
@@ -23,7 +23,7 @@ namespace EnclaveDrive.Utils
 
         private Dictionary<string, Dictionary<string, Theme>> themes;
 
-        public ThemeManager()
+        public ThemeService()
         {
             LoadThemes();
         }

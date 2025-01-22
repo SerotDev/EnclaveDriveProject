@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Controls\" />
     <Folder Include="Resources\Icons\" />
     <Folder Include="Resources\Images\" />
     <Folder Include="Resources\Audio\" />

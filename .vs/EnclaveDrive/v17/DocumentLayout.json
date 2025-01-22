@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\data\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\data\\themes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\data\\themes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\utils\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\utils\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\utils\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\languages\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\languages\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\images\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\images\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\resources\\audio\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\resources\\audio\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\data\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\data\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|c:\\users\\sergi\\source\\repos\\enclavedrive\\enclavedrive\\services\\themeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|solutionrelative:enclavedrive\\services\\themeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2B3B884-91E3-4E3C-87C5-B63D202996A6}|EnclaveDrive\\EnclaveDrive.csproj|C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\enclavedrive\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -46,34 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.json",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\Config.json",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Data\\Config.json",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\Config.json",
+              "RelativeToolTip": "EnclaveDrive\\Data\\Config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T21:33:17.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ThemeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\ThemeManager.cs",
-              "RelativeDocumentMoniker": "EnclaveDrive\\utils\\ThemeManager.cs",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\ThemeManager.cs",
-              "RelativeToolTip": "EnclaveDrive\\utils\\ThemeManager.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvw0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ThemeService.cs",
+              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Services\\ThemeService.cs",
+              "RelativeDocumentMoniker": "EnclaveDrive\\Services\\ThemeService.cs",
+              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Services\\ThemeService.cs",
+              "RelativeToolTip": "EnclaveDrive\\Services\\ThemeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T21:13:48.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Themes.json",
               "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\Themes.json",
               "RelativeDocumentMoniker": "EnclaveDrive\\Data\\Themes.json",
               "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\Themes.json",
               "RelativeToolTip": "EnclaveDrive\\Data\\Themes.json",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-21T21:09:52.594Z",
               "EditorCaption": ""
@@ -81,71 +74,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\.gitkeep",
-              "RelativeDocumentMoniker": "EnclaveDrive\\utils\\.gitkeep",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\utils\\.gitkeep",
-              "RelativeToolTip": "EnclaveDrive\\utils\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-20T22:27:19.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\languages\\.gitkeep",
-              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\languages\\.gitkeep",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\languages\\.gitkeep",
-              "RelativeToolTip": "EnclaveDrive\\Resources\\languages\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-20T22:27:09.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\images\\.gitkeep",
-              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\images\\.gitkeep",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\images\\.gitkeep",
-              "RelativeToolTip": "EnclaveDrive\\Resources\\images\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-20T22:27:00.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\audio\\.gitkeep",
-              "RelativeDocumentMoniker": "EnclaveDrive\\Resources\\audio\\.gitkeep",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Resources\\audio\\.gitkeep",
-              "RelativeToolTip": "EnclaveDrive\\Resources\\audio\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-20T22:26:53.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".gitkeep",
-              "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\.gitkeep",
-              "RelativeDocumentMoniker": "EnclaveDrive\\Data\\.gitkeep",
-              "ToolTip": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Data\\.gitkeep",
-              "RelativeToolTip": "EnclaveDrive\\Data\\.gitkeep",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-20T22:26:45.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "EnclaveDrive\\Forms\\Form1.cs",
@@ -158,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Sergi\\source\\repos\\EnclaveDrive\\EnclaveDrive\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "EnclaveDrive\\Forms\\Form1.cs",
